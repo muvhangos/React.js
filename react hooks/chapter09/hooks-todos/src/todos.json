@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Finish React Hooks Book Chapter 9"
+    },
+    {
+      "id": "2",
+      "text": "Do 1 hour Cardio"
+    },
+    {
+      "id": "3",
+      "text": "Read Bible"
+    },
+    {
+      "id": "d1dd6d71-4357-4d05-8fdf-c9d0ea035415",
+      "text": "Meditate"
+    }
+  ]
+}
